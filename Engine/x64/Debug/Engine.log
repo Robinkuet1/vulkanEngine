@@ -1,2 +1,2 @@
-﻿  Engine.cpp
-  Engine.vcxproj -> C:\Users\kuttelr\Documents\vulkanEngine\x64\Debug\Engine.exe
+﻿  LINK : C:\dev\Engine\x64\Debug\Engine.exe not found or not built by the last incremental link; performing full link
+  Engine.vcxproj -> C:\dev\Engine\x64\Debug\Engine.exe
